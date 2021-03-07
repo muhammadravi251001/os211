@@ -8,4 +8,4 @@ Untuk website github saya ada di [WEBSITE](https://muhammadravish.github.io/os21
 Untuk log github saya ada di [LOG](https://muhammadravish.github.io/os211/TXT/mylog.txt)
 
 # Operating System Assignments
-* [Week 01](W01/)
+* [Week 01](https://github.com/MuhammadRaviSH/os211/blob/master/w01.md)
