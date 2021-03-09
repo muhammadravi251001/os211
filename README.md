@@ -7,14 +7,16 @@ Untuk website github saya ada di [WEBSITE](https://muhammadravish.github.io/os21
 
 Untuk log github saya ada di [LOG](https://muhammadravish.github.io/os211/TXT/mylog.txt)
 
+Untuk mypubkey saya ada di [PUBKEY](https://muhammadravish.github.io/os211/TXT/mypubkey.txt)
+
 # Operating System Assignments
-* [Week 01](https://github.com/MuhammadRaviSH/os211/blob/master/w01.md)
-* [Week 02](https://github.com/MuhammadRaviSH/os211/blob/master/w02.md)
-* [Week 03](https://github.com/MuhammadRaviSH/os211/blob/master/w03.md)
-* [Week 04](https://github.com/MuhammadRaviSH/os211/blob/master/w04.md)
-* [Week 05](https://github.com/MuhammadRaviSH/os211/blob/master/w05.md)
-* [Week 06](https://github.com/MuhammadRaviSH/os211/blob/master/w06.md)
-* [Week 07](https://github.com/MuhammadRaviSH/os211/blob/master/w07.md)
-* [Week 08](https://github.com/MuhammadRaviSH/os211/blob/master/w08.md)
-* [Week 09](https://github.com/MuhammadRaviSH/os211/blob/master/w09.md)
-* [Week 10](https://github.com/MuhammadRaviSH/os211/blob/master/w10.md)
+* [Week 01](https://muhammadravish.github.io/os211/W01)
+* [Week 02](https://muhammadravish.github.io/os211/W02)
+* [Week 03](https://muhammadravish.github.io/os211/W03)
+* [Week 04](https://muhammadravish.github.io/os211/W04)
+* [Week 05](https://muhammadravish.github.io/os211/W05)
+* [Week 06](https://muhammadravish.github.io/os211/W06)
+* [Week 07](https://muhammadravish.github.io/os211/W07)
+* [Week 08](https://muhammadravish.github.io/os211/W08)
+* [Week 09](https://muhammadravish.github.io/os211/W09)
+* [Week 10](https://muhammadravish.github.io/os211/W10)
