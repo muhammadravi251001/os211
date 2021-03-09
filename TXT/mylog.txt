@@ -24,8 +24,8 @@ ZCZC W02 15 L12 Assignment #3
 ZCZC W02 15 L13 Assignment #4
 ZCZC W02 15 L14 Assignment #5
 ZCZC W02 20 L15 Assignment #6
-ZCZC W02 65 L16 Assignment #7
-ZCZC W02 45 L17 Assignment #8
+ZCZC W02 95 L16 Assignment #7
+ZCZC W02 10 L17 Assignment #8
 ZCZC W02 10 L18 Assignment #9
 ZCZC W02 10 L19 Assignment #10
 ZCZC W02 80 L05 GSGS Related
