@@ -128,3 +128,18 @@ ZCZC W09 10 L16 Assignment #11
 ZCZC W09 20 L05 GSGS Related
 ZCZC W09 35 L01 SCELE related
 ZCZC W09 40 L03 GitHub related
+ZCZC W10 80 L02 ZOOM related
+ZCZC W10 60 L06 Reading References/Books/Documents
+ZCZC W10 90 L11 Assignment #2 Chapter 12
+ZCZC W10 280 L12 Assignment #3
+ZCZC W10 15 L13 Assignment #4
+ZCZC W10 75 L14 Assignment #5
+ZCZC W10 10 L15 Assignment #6
+ZCZC W10 15 L16 Assignment #7
+ZCZC W10 10 L16 Assignment #8
+ZCZC W10 15 L16 Assignment #9
+ZCZC W10 20 L16 Assignment #10
+ZCZC W10 10 L16 Assignment #11
+ZCZC W10 25 L05 GSGS Related
+ZCZC W10 25 L01 SCELE related
+ZCZC W10 30 L03 GitHub related
